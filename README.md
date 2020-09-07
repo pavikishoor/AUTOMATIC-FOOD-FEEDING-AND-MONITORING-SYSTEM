@@ -22,6 +22,7 @@ food, then food gunge up will remain in the water and the owner needs to spend m
 the cleaning.
 
 CONCLUSION AND FUTURE ENHANCEMEN APPENDICES
+
 Implementing an IoT based system that controls the whole aquarium automatically and
 providing real-time status on the user’s dashboard. It contains water quality management in
 which it will monitor the physical changes in the water and will maintain it to the ideal
